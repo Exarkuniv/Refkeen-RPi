@@ -14,4 +14,4 @@ I many just wanted it to play the Catacomb games, but i included the rest too fo
 
 To install
 
-`wget https://raw.githubusercontent.com/Exarkuniv/Nblood-RPI/Master/nblood.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
+`wget https://raw.githubusercontent.com/Exarkuniv/Refkeen-RPi/Master/refkeen.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
